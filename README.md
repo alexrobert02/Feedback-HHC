@@ -15,6 +15,7 @@ Problema considerată este o problemă de clasificare multi-clasă.
 2. Testați algoritmii antrenați și afișați metricile de performanță
 3. Realizați o analiză comparativă a algoritmilor testați (spre exemplu utilizând ROC (receiver operating characteristic curve)
 
+---
 ### Echipa:
 - Burghelea Daria E2
 - Pește Ioana E2
